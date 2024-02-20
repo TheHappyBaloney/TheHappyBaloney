@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 I'm Arunima Chatterjee 👋 </h1>
+<h1 align="center"> 👩🏾‍💻I'm Arunima Chatterjee👩🏾‍💻 </h1>
 <h3 align="center">Happily Learning and Developing!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thehappybaloney&label=Profile%20views&color=0e75b6&style=flat" alt="thehappybaloney" /> </p>
