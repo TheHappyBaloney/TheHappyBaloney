@@ -17,7 +17,6 @@
 
 - 👯 I’m looking to collaborate on **Relationshipinator XD(TBD)**
   
-- 📫 How to reach me **a.chatterjeeofficial2003@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
