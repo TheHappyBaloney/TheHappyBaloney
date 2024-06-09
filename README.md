@@ -1,6 +1,7 @@
 <h1 align="center"> 👩🏾‍💻I'm Arunima Chatterjee👩🏾‍💻 </h1>
 <h3 align="center">Happily Learning and Developing!</h3>
 
+![hippo](https://media3.giphy.com/media/LbBSU26sSRAE8/giphy.gif)
 <p align="center"><img src="https://komarev.com/ghpvc/?username=thehappybaloney&label=Profile%20views&color=873260&style=flat" alt="thehappybaloney" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thehappybaloney&" alt="thehappybaloney" /></p>
