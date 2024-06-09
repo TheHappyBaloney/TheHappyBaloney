@@ -1,7 +1,8 @@
 <h1 align="center"> 👩🏾‍💻I'm Arunima Chatterjee👩🏾‍💻 </h1>
 <h3 align="center">Happily Learning and Developing!</h3>
 
-![hippo](https://media3.giphy.com/media/LbBSU26sSRAE8/giphy.gif)
+<div style="width:100%;height:0;padding-bottom:70%;position:relative;"><iframe src="https://giphy.com/embed/LbBSU26sSRAE8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/van-gogh-starry-night-LbBSU26sSRAE8">via GIPHY</a></p>
+
 <p align="center"><img src="https://komarev.com/ghpvc/?username=thehappybaloney&label=Profile%20views&color=873260&style=flat" alt="thehappybaloney" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thehappybaloney&" alt="thehappybaloney" /></p>
