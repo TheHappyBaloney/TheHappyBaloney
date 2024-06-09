@@ -2,7 +2,6 @@
 <h3 align="center">Happily Learning and Developing!</h3>
 
 <div style="background: url('[https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJyb254aG1tNXEyZmF2d2puc3N6eTMza250MHUwanNuN2N6Mzk2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LbBSU26sSRAE8/giphy.gif]') no-repeat center center fixed; background-size: cover; position: relative; width: 100%; height: 100vh;">
-<div style="background: rgba(255, 255, 255, 0.8); width: 100%; height: 100%; padding: 20px; box-sizing: border-box;">
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=thehappybaloney&label=Profile%20views&color=873260&style=flat" alt="thehappybaloney" /></p>
 
