@@ -5,6 +5,8 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thehappybaloney&" alt="thehappybaloney" /></p>
 
+<p align="center"><img align="center" src="https://raw.githubusercontent.com/thehappybaloney/thehappybaloney/output/snake.svg" alt="Snake animation" /></p>
+
 <h3 align="center"> 🔥 Languages and Tools 🔥 </h3>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thehappybaloney&show_icons=true&locale=en&layout=compact" alt="thehappybaloney" /></p>
@@ -16,10 +18,6 @@
 - 🌱 I’m currently learning **Machine Learning Algorithms** (TensorFlow, Scikit-learn, PyTorch) | **Generative AI** (GPT, Gemini, DALL-E) | **Responsible AI** (InterpretML, Microsoft Responsible AI Toolkit) | **Accessibility-friendly UI Design** | **Flutter Development: Flutter SDK by Google**
 
 - 👯 I’m always open to collaborate.
-
-  <img src="https://raw.githubusercontent.com/thehappybaloney/thehappybaloney/output/snake.svg" alt="Snake animation" />
-
-###
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
