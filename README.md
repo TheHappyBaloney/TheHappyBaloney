@@ -5,8 +5,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thehappybaloney&" alt="thehappybaloney" /></p>
 
-<p align="center"><img align="center" src="https://raw.githubusercontent.com/TheHappyBaloney/TheHappyBaloney/output/snake.svg" alt="Snake animation" /></p>
-
 <h3 align="center"> 🔥 Languages and Tools 🔥 </h3>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thehappybaloney&show_icons=true&locale=en&layout=compact" alt="thehappybaloney" /></p>
