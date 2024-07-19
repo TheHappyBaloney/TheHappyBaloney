@@ -17,6 +17,7 @@
 
 - 👯 I’m always open to collaborate.
   
+<img src="https://raw.githubusercontent.com/TheHappyBaloney/TheHappyBaloney/output/snake.svg" alt="Snake animation" />
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
