@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=thehappybaloney&label=Profile%20views&color=873260&style=flat" alt="thehappybaloney" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thehappybaloney" alt="thehappybaloney" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thehappybaloney&" alt="thehappybaloney" /></p>
 
 <h3 align="center"> 🔥 Languages and Tools 🔥 </h3>
 
