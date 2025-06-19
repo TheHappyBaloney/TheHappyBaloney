@@ -1,6 +1,6 @@
 <h1 align="center"> 👩🏾‍💻I'm Arunima Chatterjee👩🏾‍💻 </h1>
 <h3 align="center">Happily Learning and Developing!</h3>
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=TheHappyBaloney)](https://git.io/streak-stats)
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=thehappybaloney)](https://git.io/streak-stats)
 <h3 align="center"> 🔥 Languages and Tools 🔥 </h3>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thehappybaloney&show_icons=true&locale=en&layout=compact" alt="thehappybaloney" /></p>
